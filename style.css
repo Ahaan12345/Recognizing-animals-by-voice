@@ -9,7 +9,6 @@ body{
 .header_div p{
     font-size: 12px;
     font-weight: bold;
-    color: white;
     font-family: 'Roboto',sans-serif;
     letter-spacing: 5px;
 }
@@ -30,4 +29,7 @@ body{
     background-color: #f5f5f5;
     line-height: 3;
     text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+h4{
+    font-size: 25px;
 }
